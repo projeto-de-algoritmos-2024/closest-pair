@@ -5,6 +5,11 @@ Closest Pairs
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
+## Link da apresentacao
+
+[APRESENTAÇÃO](https://youtu.be/26IF_ipnFyI)
+
+
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
